@@ -1,4 +1,4 @@
-$title-color: darkblue;
+$title-color: rgb(85, 82, 115);
 
 .title-color {
   color: $title-color;
@@ -11,8 +11,8 @@ img {
 body {
   display: flex;
   flex-direction: column;
-  justify-content: center; 
-  align-items: center; 
+  justify-content: center;
+  align-items: center;
   height: 98vh;
   background-color: rgb(183, 214, 220);
 }
